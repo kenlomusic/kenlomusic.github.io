@@ -1,3 +1,5 @@
+<body style="background-color:powderblue;">
+  
 <img src="website_logo_transparent_background.png"/>
 
 <img src="website_logo_solid_background.png"/>
